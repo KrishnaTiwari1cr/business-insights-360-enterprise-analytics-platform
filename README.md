@@ -5,7 +5,7 @@ A comprehensive **Power BI-driven Business Intelligence solution** offering 360-
 ---
 
 ### **Live Dashboard** 
-[🔗 Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNGQ4ZGE2NDMtNjI4Mi00NDE5LTgwYTUtMTljMjQ0M2RlNzY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
+[🔗 Business Insights 360]([https://app.powerbi.com/view?r=eyJrIjoiNGQ4ZGE2NDMtNjI4Mi00NDE5LTgwYTUtMTljMjQ0M2RlNzY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73](https://app.powerbi.com/view?r=eyJrIjoiOGFkNTYzOWMtNGNlYy00ZjhiLTg5ODktN2ZmOWQzMTA1MjYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 ---
 
